@@ -1,4 +1,4 @@
-# 🎯 JavaScript and React Exercises
+# 🎯 JavaScript Exercises
 
 ## 🟢 JavaScript Exercises (Tier 1 - Beginner)
 
