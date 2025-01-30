@@ -1,4 +1,4 @@
-# 🎯 JavaScript Exercises
+# 🎯 JavaScript Exercises curated by [BhavyaJustChill](https://github.com/bhavyajustchill)
 
 ## 🟢 JavaScript Exercises (Tier 1 - Beginner)
 
